@@ -16,4 +16,11 @@
     <string name="cd_header_image">Gambar header</string>
     <string name="toast_success">Biodata %1$s %2$s tersimpan</string>
     <string name="date_format" translatable="false">dd/MM/yyyy</string>
+
+    <string-array name="experience_options">
+        <item>&lt; 1 Tahun</item>
+        <item>1 - 3 Tahun</item>
+        <item>3 - 5 Tahun</item>
+        <item>&gt; 5 Tahun</item>
+    </string-array>
 </resources>
