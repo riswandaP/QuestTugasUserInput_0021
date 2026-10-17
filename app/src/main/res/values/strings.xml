@@ -11,4 +11,5 @@
     <string name="label_skills">Pilih Skill Anda :</string>
     <string name="btn_proceed">Proceed</string>
     <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Batal</string>
 </resources>
