@@ -15,4 +15,5 @@
     <string name="cd_pick_date">Pilih tanggal</string>
     <string name="cd_header_image">Gambar header</string>
     <string name="toast_success">Biodata %1$s %2$s tersimpan</string>
+    <string name="date_format" translatable="false">dd/MM/yyyy</string>
 </resources>
