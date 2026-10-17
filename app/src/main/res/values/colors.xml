@@ -18,4 +18,5 @@
     <color name="dot_inactive">#FF8A8A8A</color>
     <color name="button_enabled">#FF6A3FB5</color>
     <color name="button_enabled_text">#FFFFFFFF</color>
+    <color name="button_disabled">#FFE0E0E0</color>
 </resources>
