@@ -13,4 +13,5 @@
     <color name="title_purple">#FF6A3FB5</color>
     <color name="text_primary">#FF1C1B1F</color>
     <color name="text_secondary">#FF757575</color>
+    <color name="field_border">#FF757575</color>
 </resources>
