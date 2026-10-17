@@ -13,4 +13,5 @@
     <string name="dialog_ok">OK</string>
     <string name="dialog_cancel">Batal</string>
     <string name="cd_pick_date">Pilih tanggal</string>
+    <string name="cd_header_image">Gambar header</string>
 </resources>
