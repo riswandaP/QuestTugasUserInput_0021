@@ -20,4 +20,5 @@
     <color name="button_enabled_text">#FFFFFFFF</color>
     <color name="button_disabled">#FFE0E0E0</color>
     <color name="button_disabled_text">#FFFFFFFF</color>
+    <color name="checkbox_checked">#FF6A3FB5</color>
 </resources>
