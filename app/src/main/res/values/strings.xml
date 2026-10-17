@@ -23,4 +23,10 @@
         <item>3 - 5 Tahun</item>
         <item>&gt; 5 Tahun</item>
     </string-array>
+
+    <string-array name="skill_options">
+        <item>Android</item>
+        <item>UI/UX</item>
+        <item>Web</item>
+    </string-array>
 </resources>
