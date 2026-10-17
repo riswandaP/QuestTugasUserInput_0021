@@ -15,4 +15,5 @@
     <color name="text_secondary">#FF757575</color>
     <color name="field_border">#FF757575</color>
     <color name="dot_active">#FF4A5FD6</color>
+    <color name="dot_inactive">#FF8A8A8A</color>
 </resources>
