@@ -12,4 +12,5 @@
     <string name="btn_proceed">Proceed</string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_cancel">Batal</string>
+    <string name="cd_pick_date">Pilih tanggal</string>
 </resources>
