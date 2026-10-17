@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="screen_bg">#FFF7F5FF</color>
+    <color name="card_bg">#FFFFFFFF</color>
 </resources>
